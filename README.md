@@ -11,8 +11,10 @@ Building
 You need netbeans and the JME runtime installed. You'll also need to download
 the following jars and put them in a ./lib directory:
 
-| kxml2-2.2.0.jar        | http://sourceforge.net/projects/kxml | 
-| mtcs.jar               | http://sourceforge.net/projects/mtcs/ |
+| Library                | URL                                     |
+|------------------------|-----------------------------------------|
+| kxml2-2.2.0.jar        | http://sourceforge.net/projects/kxml    | 
+| mtcs.jar               | http://sourceforge.net/projects/mtcs/   |
 | twitter_api_me-1.7.jar | https://kenai.com/projects/twitterapime |
 
 Running
